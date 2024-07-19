@@ -1,0 +1,12 @@
+@media screen and (max-width:750px) {
+    
+.media{
+    margin-right:auto ;
+}
+.nav-link:focus{
+    border: none ;
+    
+    
+}
+
+}
